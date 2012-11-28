@@ -18,6 +18,6 @@
   , "inputs": [ "js/app.js" ]
   , "jsdoc-html-output-path": "doc.html"
   , "level": "VERBOSE"
-  , "mode": "RAW"
+  , "mode": "ADVANCED"
   , "paths": [ "js" ]
 }
