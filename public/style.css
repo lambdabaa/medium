@@ -1,4 +1,4 @@
-html,body{height:100%}#wrap{min-height:100%;height:auto!important;height:100%;margin:0 auto -80px}#push,#footer{height:80px}#footer{background-color:#f5f5f5}@media(max-width:767px){#footer{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px}}.container{width:auto;max-width:680px}.container .credit{margin:20px 0}.random-button{width:350px;margin:15px auto}.blackandwhite{float:left}.incolor{float:right}canvas{width:250;height:250;margin:20px}/*!
+html,body{height:100%}#wrap{min-height:100%;height:auto!important;height:100%;margin:0 auto -80px}#push,#footer{height:80px}#footer{background-color:#f5f5f5}@media(max-width:767px){#footer{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px}}.container{width:auto;max-width:680px}.container .credit{margin:20px 0}.random-button{width:350px;margin:15px auto}.random-button button{width:100%}.blackandwhite{float:left}.incolor{float:right}canvas{width:250;height:250;margin:20px}/*!
  * Bootstrap v2.2.1
  *
  * Copyright 2012 Twitter, Inc
