@@ -1,0 +1,23 @@
+{
+    "checks": {
+        "checkRegExp": "ERROR"
+      , "checkTypes": "ERROR"
+      , "checkVars": "ERROR"
+      , "deprecated": "ERROR"
+      , "fileoverviewTags": "ERROR"
+      , "invalidCasts": "ERROR"
+      , "missingProperties": "ERROR"
+      , "nonStandardJsDocs": "ERROR"
+      , "undefinedVars": "ERROR"
+    }
+  , "debug": true
+  , "experimental-compiler-options": { "generateExports": true }
+  , "externs": [
+    ]
+  , "id": "medium"
+  , "inputs": [ "js/app.js" ]
+  , "jsdoc-html-output-path": "doc.html"
+  , "level": "VERBOSE"
+  , "mode": "RAW"
+  , "paths": [ "js" ]
+}
